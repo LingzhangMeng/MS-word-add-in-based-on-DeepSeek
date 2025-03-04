@@ -33,7 +33,8 @@ This add-in for Microsoft Office Pro enables users to efficiently compose admini
 4. Review and edit the generated document as necessary.
 
    <img width="922" alt="1" src="https://github.com/user-attachments/assets/32a4c9bc-fa16-46e8-bf46-d17b45a5bbf9" />
-<img width="1389" alt="2" src="https://github.com/user-attachments/assets/8bc43f26-c41d-45a4-a2e6-c35eea2b086c" />
+
+<img width="1290" alt="3" src="https://github.com/user-attachments/assets/57665326-eab1-4b99-be70-1f585c8bfddb" />
 
 
 ## Code Example
